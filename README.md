@@ -1,4 +1,5 @@
 Project Structure
+
 app.py: The main Flask application file.
 templates/loan_application.html: The HTML template for the loan application form.
 models/logistic_model.pkl: The serialized logistic regression model.
